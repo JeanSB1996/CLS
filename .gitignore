@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# OS files
+.DS_Store
+
+# Development
+.vscode/
+
+# Build outputs
+build/
+dist/
+
+# Excel internals
+sheet*.xml
